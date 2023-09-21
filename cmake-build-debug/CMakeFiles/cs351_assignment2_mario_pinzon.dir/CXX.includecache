@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Tvpow/CLionProjects/cs351_assignment2_mario_pinzon/cs351_assignment2_mario_pinzon.cpp
+iostream
+-
+windows.h
+-
+vector
+-
+map
+-
+functional
+-
+
