@@ -19,7 +19,7 @@ int main(int argc, char* argv[]) {
 
     string whole;
     map<std::string, void(*)()> cdMap{
-            {"di",      useless},
+            {"dir",      useless},
             {"help",     useless},
             {"vol",      useless},
             {"path",     useless},
